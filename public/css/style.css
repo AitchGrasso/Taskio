@@ -33,7 +33,7 @@ html,body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #5e5f5e;
+	/* background-color: #5e5f5e; */
     z-index: -100;
 }
 
